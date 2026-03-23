@@ -1,2 +1,4 @@
 # Agent-Project
-Python Agent
+启动：
+cd D:\Pycharm\Agent项目
+streamlit run app.py
